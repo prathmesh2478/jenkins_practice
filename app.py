@@ -1,0 +1,1 @@
+print("India won the t20 wworld cup 2026")
